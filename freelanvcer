@@ -1,0 +1,14 @@
+freelance-marketplace/
+│
+├── client/                
+│   ├── components/
+│   ├── pages/
+│   ├── hooks/
+│   ├── context/
+│   └── utils/
+│
+├── server/                
+│   ├── controllers/
+│   ├── routes/
+│   ├── models/
+│   ├── mid
